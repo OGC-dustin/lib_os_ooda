@@ -1,2 +1,5 @@
 # lib_os_ooda
-OGC Engineering OODA loop for baremetal projects
+OGC Engineering
+Observe, Orient, Decide, Act ( OODA )
+
+loop for baremetal projects
